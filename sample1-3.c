@@ -4,9 +4,6 @@ int main(){
  char firstname[20];
  char lastname[20];
  int id;
- char firstname = "Hashimoto";
- char lastname = "Takuya";
- int id = 222;
  printf("What’s your full name?\n");
  scanf("%s %s", firstname, lastname);
  printf("What is your student ID?\n");
